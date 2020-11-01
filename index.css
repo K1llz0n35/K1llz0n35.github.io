@@ -1,7 +1,8 @@
  body {
-     background: /*gif*/;
+     background-image: url(https://media1.tenor.com/images/8e46150f790fbefe438d9c2767c32ad1/tenor.gif?itemid=15673753);
      padding: 10px;
      font-family: arial;
+     color: rgb(255, 255, 255);
  }
  #all-contents {
      max-width: 800px;
@@ -26,13 +27,17 @@
 
  nav a {
      text-decoration: none;
-     color: rgb(0, 0, 0);
+     color: rgb(255, 255, 255);
+ }
+
+ #projects {
+  color: rgb(255, 255, 255);
  }
 
  /* main container area beneath menu */
 
  main {
-     background: rgb(255, 87, 51);
+     background: rgb(0, 0, 0);
      display: flex;
  }
 
